@@ -2,7 +2,7 @@
 #######
 Easily get a web-page from stored commmoncrawl WARC files on S3
 
-|PyPI-Status| |Downloads| |PyPI-Versions| |Build-Status| |Codecov| |Codefactor| |LICENCE|
+|PyPI-Status| |PyPI-Versions| |Build-Status| |LICENCE|
 
 .. |PyPI-Status| image:: https://img.shields.io/pypi/v/GetCCWarc.svg
   :target: https://pypi.python.org/pypi/GetCCWarc
