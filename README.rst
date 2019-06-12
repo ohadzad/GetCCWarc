@@ -1,8 +1,8 @@
 # GetCCWarc
 #######
-Easily get a web-page from stored commmoncrawl WARC files on S3
-
 |PyPI-Status| |PyPI-Versions| |Build-Status| |LICENCE|
+
+Easily get a web-page from stored commmoncrawl WARC files on S3
 
 .. |PyPI-Status| image:: https://img.shields.io/pypi/v/GetCCWarc.svg
   :target: https://pypi.python.org/pypi/GetCCWarc
