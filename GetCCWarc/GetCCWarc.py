@@ -19,6 +19,12 @@ class GetCCWarc:
         else:
             return zlib.decompress(gzipped_text, 16 + zlib.MAX_WBITS)
 
+    @staticmethod
+    def get_response(data):
+        data = str(data)
+        parts = data.split('\\r\\n\\r\\n')
+        return "".join(parts[2:])
+
 
 if __name__ == '__main__':
     off, len, file = 437157916, 884, \
